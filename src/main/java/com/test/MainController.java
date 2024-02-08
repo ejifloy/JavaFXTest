@@ -15,7 +15,6 @@ public class MainController implements Initializable {
 
     @FXML
     private void setCheck(){
-        System.out.println("test");
     }
 
     @FXML
@@ -41,6 +40,4 @@ public class MainController implements Initializable {
 //            System.out.println("Error: "+e);
 //        }
     }
-
-
 }
