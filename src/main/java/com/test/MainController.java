@@ -15,7 +15,7 @@ public class MainController implements Initializable {
 
     @FXML
     private void setCheck(){
-
+        System.out.println("test");
     }
 
     @FXML
