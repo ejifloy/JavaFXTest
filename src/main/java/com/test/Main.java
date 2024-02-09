@@ -19,5 +19,7 @@ public class Main extends Application {
         stage.setTitle("Hello Test");
         stage.setScene(scene);
         stage.show();
+
+        //TODO: Add JFoenix Libaries for deployment...
     }
 }
